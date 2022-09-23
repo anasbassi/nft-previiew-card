@@ -40,7 +40,6 @@ Users should be able to:
 - Frontend Mentor - [@anasbass](https://www.frontendmentor.io/profile/anasbassi)
 - Twitter - [@anasabu92568449](https://twitter.com/anasabu92568449)
 - LinkedIn - [Anas Abubakar](https://www.linkedin.com/in/anas-abubakar-bassi/)
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
