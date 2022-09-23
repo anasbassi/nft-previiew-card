@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700;800&family=Outfit:wght@400;500;600;700;800&family=Roboto+Mono:wght@500;700&display=swap');
+body {
+  background-color: hsl(217, 54%, 11%);
+  font-family: 'Outfit', sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.main-container {
+  width: 300px;
+  padding: 25px ;
+  background-color: hsl(216, 50%, 16%);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.image {
+  width: 300px;
+  border-radius: 10px;
+}
+
+h1 {
+  color: white;
+  font-size: 1.5em;
+}
+
+p {
+  font-size: 15px;
+}
+
+.p1 {
+  width: 300px;
+  word-spacing: 2px;
+  margin: 0;
+}
+
+.p2 {
+  margin-left: 10px;
+}
+
+.p-details {
+  color: hsl(215, 51%, 70%);
+}
+
+.icons {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.p-eth {
+  color: hsl(178, 100%, 50%);
+  margin-left: 5px;
+}
+
+.avatar-section {
+  display: flex;
+  align-items: center;
+}
+
+hr {
+  width: 100%;
+  height: 1px;
+  background-color: hsl(215, 51%, 70%);
+  border: none;
+  margin-bottom: 15px;
+}
+
+.avatar {
+  width: 30px;
+  height: 30px;
+  border: 2px solid white;
+  border-radius: 100%;
+  margin-right: 5px;
+}
+
+.avt-span {
+  color: white;
+}
